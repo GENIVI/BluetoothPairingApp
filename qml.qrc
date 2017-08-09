@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DeviceList.qml</file>
+        <file>bluetooth.svg</file>
+    </qresource>
+</RCC>
